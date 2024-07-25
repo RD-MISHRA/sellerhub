@@ -1,0 +1,10 @@
+/* ProductForm.css */
+.form-control {
+    background-color: rgb(255, 255, 255);
+    color: rgb(60, 57, 57);
+    border: 1px solid #737373;
+}
+
+.form-control::placeholder {
+    color: #dfdede;
+}
